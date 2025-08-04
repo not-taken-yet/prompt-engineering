@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt-engineering/04 목적 중심의 프롬프트 기획 전략.md",
+                "file": "project/Resume Assistant/002 Resume Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 목적 중심의 프롬프트 기획 전략"
+              "title": "002 Resume Analysis"
             }
           },
           {
@@ -277,28 +277,28 @@
   },
   "active": "fed359d856ff2c6e",
   "lastOpenFiles": [
-    "prompt-engineering/05 프롬프트 제작의 기초 (핵심 원리와 방법론).md",
+    "project/Resume Assistant/003 Human In the Loop.md",
+    "project/Resume Assistant/005 References.md",
+    "project/Resume Assistant/004 Final Output.md",
+    "project/Resume Assistant/002 Resume Analysis.md",
+    "project/Resume Assistant/001 Resume Summarization.md",
+    "practice/03 Chain-of-Thought Prompting.md",
+    "prompt-engineering/02 프롬프트 구조와 기능 탐구.md",
+    "prompt-engineering/08 프롬프트 성능 평가.md",
     "prompt-engineering/06 프롬프트 제작 심화.md",
+    "prompt-engineering/07 프롬프트 품질 관리.md",
     "prompt-engineering/04 목적 중심의 프롬프트 기획 전략.md",
+    "prompt-engineering/05 프롬프트 제작의 기초 (핵심 원리와 방법론).md",
     "practice/08 Tree of Thought.md",
     "practice/07 Prompt Chaining.md",
     "practice/04 Zero-shot Chain-of-Thought Prompting.md",
     "practice/06 Generate Knowledge Prompting.md",
     "practice/05 Self-Consistency.md",
-    "project/Resume Assistant/005 References.md",
-    "project/Resume Assistant/002 Resume Analysis.md",
     "prompt-engineering/01 프롬프트 엔지니어란?.md",
-    "prompt-engineering/02 프롬프트 구조와 기능 탐구.md",
     "prompt-engineering/03 효과적인 프롬프트 분석 기법.md",
-    "project/Resume Assistant/004 Final Output.md",
-    "practice/03 Chain-of-Thought Prompting.md",
     "practice/02 Few-shot Prompting.md",
-    "project/Resume Assistant/001 Resume Summarization.md",
     "project/Resume Assistant/000 Intro.md",
-    "project/Resume Assistant/003 Human In the Roop.md",
     "practice/01 Zero-shot Prompting.md",
-    "prompt-engineering/07 프롬프트 품질 관리.md",
-    "prompt-engineering/08 프롬프트 성능 평가.md",
     "Pasted image 20250804024501.png",
     "images/resume-summarization.png",
     "prompt-engineering/09 프롬프트 기록과 버전 관리.md",
